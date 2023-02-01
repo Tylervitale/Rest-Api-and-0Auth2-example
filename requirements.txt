@@ -1,0 +1,4 @@
+flask 
+jsonify 
+requests
+flask_oauthlib.provider
